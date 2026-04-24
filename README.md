@@ -74,28 +74,6 @@ class MuhammadAliAhmad:
 
 ---
 
-## 💼 Experience
-
-| Role | Organization | Duration |
-|------|-------------|----------|
-| 🧑‍💻 Freelance Full Stack Developer | Self-Employed | Jan 2023 – Present |
-| 💼 Software Engineering Intern | Techyon Tech | Jul 2024 – Aug 2024 |
-| 🏢 Software Engineering Intern | PTV Headquarters, Islamabad | Jan 2024 – Feb 2024 |
-| 🏢 Software Engineering Intern | PTV Headquarters, Islamabad | Jul 2023 – Aug 2023 |
-
----
-
-
-## 🎓 Education
-
-```
-📘  Masters in Data Science          →  FAST University Islamabad      (2025 – Present)
-🎓  B.Sc Software Engineering        →  COMSATS University, Wah Campus  (2020 – 2024)
-📗  Intermediate (FCS)               →  Sir Syed College, Wah Cantt     (2018 – 2020)
-📙  Matriculation (Computer Science) →  Sir Syed College, Wah Cantt     (2016 – 2018)
-```
-
----
 
 <div align="center">
 
