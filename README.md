@@ -5,8 +5,8 @@
 ### Software Engineer · Full Stack Developer · AI/ML Engineer · Data Scientist
 
 [![Email](https://img.shields.io/badge/Email-aliahmadm754%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:aliahmadm754@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ali-ahmad-7a5203282)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://devaalley.me)
 [![Phone](https://img.shields.io/badge/📞-%2B92--309--055--5415-1a1a2e?style=flat-square)](tel:+923090555415)
 
 </div>
@@ -80,8 +80,8 @@ class MuhammadAliAhmad:
 ### 💬 Let's Connect & Build Something Amazing!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmadm754@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ali-ahmad-7a5203282)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devaalley.me/)
 
 ---
 
